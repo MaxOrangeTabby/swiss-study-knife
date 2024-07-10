@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Fonarto";
+    src: url("./fonts/Fonarto.otf");
+}
+
 *{
     margin: 0;
     padding: 0;
